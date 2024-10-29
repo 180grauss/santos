@@ -75,3 +75,9 @@ button:hover {
     font-weight: bold;
     text-align: center;
 }
+
+.banner {
+    width: 30%;
+    max-width: 100%;
+    margin-bottom: 20px; /* Adiciona espaço entre o banner e o título */
+}
